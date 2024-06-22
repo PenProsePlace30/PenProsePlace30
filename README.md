@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Roushnee</h1>
-<h3 align="center">A Quick Learner and passionate person</h3>
+<h1 align="center"> Roushnee</h1>
+<h3 align="center">a FinTech student and new coding enthusiast, passionate about exploring financial technology and data science. Currently learningC++,R, Javascript, php, solidity,  Python, web development, and blockchain, while working on projects. Connect with me on LinkedIn or Twitter—let's build something amazing together!
+
+</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/PenProsePlace30/PenProsePlace30/assets/171834750/0fe22bcc-4862-4f3b-8b3c-f85f405090c2)
 "
